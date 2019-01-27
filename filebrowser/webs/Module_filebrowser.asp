@@ -80,7 +80,7 @@ function save(){
 }
 </script>
 <div class="box">
-<div class="heading">filebrowser <a href="#/soft-center.asp" class="btn" style="float:right;border-radius:3px;margin-right:5px;margin-top:0px;">返回</a></div>
+<div class="heading">FileBrowser <a href="#/soft-center.asp" class="btn" style="float:right;border-radius:3px;margin-right:5px;margin-top:0px;">返回</a></div>
 <br><hr>
 <div class="content">
 <div id="filebrowser-fields"></div>
